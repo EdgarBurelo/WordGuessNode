@@ -1,0 +1,22 @@
+{
+  "name": "wordguessnode",
+  "version": "1.0.0",
+  "description": "Guess the word",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgarBurelo/WordGuessNode.git"
+  },
+  "author": "Edgar Burelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdgarBurelo/WordGuessNode/issues"
+  },
+  "homepage": "https://github.com/EdgarBurelo/WordGuessNode#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  }
+}
