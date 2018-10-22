@@ -1,7 +1,7 @@
 let word = require("./Word");
 let inquirer = require("inquirer");
 
-let gameWord = new word("perro");
+let gameWord = new word("Pruebas");
 gameWord.LetterArrayFill();
 gameWord.stringRep();
 
